@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julien Pellé | Fbob&#39;s academic pages</title>
+    <link>https://fbob.github.io/author/julien-pelle/</link>
+      <atom:link href="https://fbob.github.io/author/julien-pelle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julien Pellé</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fbob.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Julien Pellé</title>
+      <link>https://fbob.github.io/author/julien-pelle/</link>
+    </image>
+    
+    <item>
+      <title>Pascal, Bernoulli et Torricelli sont sur un bateau…</title>
+      <link>https://fbob.github.io/publication/pelle-pascal-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/pelle-pascal-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mock-up Study of the Effect of Wall distance on the Thermal Rating of Power Cables in Ventilated Tunnels</title>
+      <link>https://fbob.github.io/publication/boukrouche-mock-up-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/boukrouche-mock-up-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Proximity on the Thermal Rating of a Single Power Cable in Ventilated Tunnels</title>
+      <link>https://fbob.github.io/publication/boukrouche-effect-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/boukrouche-effect-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A thermal study of power cables cooling in tunnels</title>
+      <link>https://fbob.github.io/publication/boukrouche-thermal-2016/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/boukrouche-thermal-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

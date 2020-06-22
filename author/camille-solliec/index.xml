@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Camille Solliec | Fbob&#39;s academic pages</title>
+    <link>https://fbob.github.io/author/camille-solliec/</link>
+      <atom:link href="https://fbob.github.io/author/camille-solliec/index.xml" rel="self" type="application/rss+xml" />
+    <description>Camille Solliec</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fbob.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Camille Solliec</title>
+      <link>https://fbob.github.io/author/camille-solliec/</link>
+    </image>
+    
+    <item>
+      <title>Etude d&#39;un jet plan turbulent en impact proche par simulation des grandes échelles</title>
+      <link>https://fbob.github.io/publication/beaubert-etude-2001-1/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-etude-2001-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modélisations expérimentale et numérique des jets utilisés pour le confinement et la protection rapprochée</title>
+      <link>https://fbob.github.io/publication/beaubert-modelisations-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-modelisations-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical and experimental visualizations of a plane turbulent jet impinging on a flat and smooth plate.</title>
+      <link>https://fbob.github.io/publication/beaubert-numerical-2000/</link>
+      <pubDate>Sun, 01 Oct 2000 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-numerical-2000/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

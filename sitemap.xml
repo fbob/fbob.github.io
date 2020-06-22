@@ -3,11 +3,643 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://fbob.github.io/</loc>
+    <loc>https://fbob.github.io/publication-type/2/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://fbob.github.io/authors/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/bruce-indurain/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/indurain-computational-2020/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/david-uystepryst/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/francois-beaubert/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication_types/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/sylvain-lalot/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/b.-indurain/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/d.-uystepruyst/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/f.-beaubert/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/indurain-numerical-2019/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/s.-lalot/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/a.-helgadottir/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication-type/1/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/fbob/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/julien-pelle/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/nachida-bourabaa/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/pelle-pascal-2019/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tags/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/mathieu-couvrat/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/indurain-numerical-2019-1/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication-type/8/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/indurain-tube-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/halldor-palsson/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/helgadottir-mesh-2018/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/asdis-helgadottir/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/indurain-cfd-2018/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/offroy-combustion-2018/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/celine-morin/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/eric-delacourt/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/eric-therssen/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/jean-baptiste-offroy/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/cable-rating/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/cfd/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/christophe-moreau/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/fahd-boukrouche/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/forced-convection/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/boukrouche-mock-up-2017/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/olivier-moreau/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/openfoam/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/radiation/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/souad-harmand/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/turbulent-flow/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/ventilated-tunnel/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/offroy-etude-2017-1/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/offroy-etude-2017/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/cht/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/federico-torriano/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/gilles-rolland/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/heat-transfer-coefficient/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/hydrogenerator/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/nicolas-lancial/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/rotating-machines/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/lancial-taylor-couette-poiseuille-2017/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/boukrouche-effect-2016/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/wilfried-frelin/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/boukrouche-thermal-2016/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/analytical/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/boundary-condition/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/decay/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/beaubert-fundamental-2016/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/hadrien-bauduin/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/isabelle-choquet/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/laminar/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/swirl/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/beaubert-design-2015/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/c-hudon/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/f.-torriano/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/fem/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/g.-rolland/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/torriano-heat-2014/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/j.-f.-morissette/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/m.-levesque/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/n.-lancial/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/rans-simulations/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/s.-harmand/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/salient-pole-machine/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/lancial-study-2014/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/lancial-effects-2013/</loc>
+    <lastmod>2013-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/hot-wire-measurements/</loc>
+    <lastmod>2013-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/infrared-measurements/</loc>
+    <lastmod>2013-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/inverse-method/</loc>
+    <lastmod>2013-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/non-confined-backward-facing-step/</loc>
+    <lastmod>2013-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/turbulence/</loc>
+    <lastmod>2013-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/turbulence-modeling/</loc>
+    <lastmod>2013-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/turbulent-wall-jet-flow/</loc>
+    <lastmod>2013-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/lancial-effects-2013-1/</loc>
+    <lastmod>2013-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/tien-duy-nguyen/</loc>
+    <lastmod>2013-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/palsson-inducing-2013/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/coefficient-de-frottement-parietal/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/lancial-effets-2013/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/jet-relache/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/marche-non-confinee/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/mesures-infrarouge/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/mesures-par-fils-chauds/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/methode-inverse/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/nombre-de-nusselt-local/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/palsson-increased-2011/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/beaubert-etude-2010/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/tiphanie-fourmeau/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/labraga-experimental-2007/</loc>
+    <lastmod>2007-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/g.-kahissim/</loc>
+    <lastmod>2007-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/l.-keirsbulck/</loc>
+    <lastmod>2007-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/l.-labraga/</loc>
+    <lastmod>2007-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/haddad-effet-2005/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/m.-haddad/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/keirsbulck-experimental-2004/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/impinging-jet/</loc>
+    <lastmod>2003-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/large-eddy-simulation/</loc>
+    <lastmod>2003-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/beaubert-large-2003/</loc>
+    <lastmod>2003-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/stephane-viazzo/</loc>
+    <lastmod>2003-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/tag/subgrid-model/</loc>
+    <lastmod>2003-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/beaubert-large-2003-1/</loc>
+    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/beaubert-large-2002/</loc>
+    <lastmod>2002-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication-type/7/</loc>
+    <lastmod>2002-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/beaubert-simulation-2002/</loc>
+    <lastmod>2002-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/beaubert-large-2002-1/</loc>
+    <lastmod>2002-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/camille-solliec/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/beaubert-etude-2001-1/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/beaubert-etude-2001/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/beaubert-large-2001/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/beaubert-modelisations-2001/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/author/stephane-maurel/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/beaubert-numerical-2000/</loc>
+    <lastmod>2000-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/publication/beaubert-simulation-1999/</loc>
+    <lastmod>1999-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -15,7 +647,7 @@
   </url>
   
   <url>
-    <loc>https://fbob.github.io/author/nelson-bighetti/</loc>
+    <loc>https://fbob.github.io/author/francois-beaubert/</loc>
   </url>
   
   <url>
@@ -23,19 +655,7 @@
   </url>
   
   <url>
-    <loc>https://fbob.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://fbob.github.io/publication/</loc>
-  </url>
-  
-  <url>
     <loc>https://fbob.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://fbob.github.io/tags/</loc>
   </url>
   
 </urlset>

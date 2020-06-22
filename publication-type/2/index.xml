@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Fbob&#39;s academic pages</title>
+    <link>https://fbob.github.io/publication-type/2/</link>
+      <atom:link href="https://fbob.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fbob.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://fbob.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Computational fluid dynamics investigation of the thermal performances of a swirler with profiled blades</title>
+      <link>https://fbob.github.io/publication/indurain-computational-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/indurain-computational-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical investigation of several twisted tubes with non-conventional tube cross sections on heat transfer and pressure drop</title>
+      <link>https://fbob.github.io/publication/indurain-numerical-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/indurain-numerical-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mesh Twisting Technique for Swirl Induced Laminar Flow Used to Determine a Desired Blade Shape</title>
+      <link>https://fbob.github.io/publication/helgadottir-mesh-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/helgadottir-mesh-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mock-up Study of the Effect of Wall distance on the Thermal Rating of Power Cables in Ventilated Tunnels</title>
+      <link>https://fbob.github.io/publication/boukrouche-mock-up-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/boukrouche-mock-up-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taylor-Couette-Poiseuille flow and heat transfer in an annular channel with a slotted rotor</title>
+      <link>https://fbob.github.io/publication/lancial-taylor-couette-poiseuille-2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/lancial-taylor-couette-poiseuille-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A thermal study of power cables cooling in tunnels</title>
+      <link>https://fbob.github.io/publication/boukrouche-thermal-2016/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/boukrouche-thermal-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundamental mode of freely decaying laminar swirling flows</title>
+      <link>https://fbob.github.io/publication/beaubert-fundamental-2016/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-fundamental-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a device to induce swirling flow in pipes: A rational approach</title>
+      <link>https://fbob.github.io/publication/beaubert-design-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-design-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heat transfer coefficient distribution on the pole face of a hydrogenerator scale model</title>
+      <link>https://fbob.github.io/publication/torriano-heat-2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/torriano-heat-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of a turbulent wall jet on heat transfer over a non-confined backward-facing step</title>
+      <link>https://fbob.github.io/publication/lancial-effects-2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/lancial-effects-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inducing Swirling Flow in Heat Exchanger Pipes for Reduced Fouling Rate</title>
+      <link>https://fbob.github.io/publication/palsson-inducing-2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/palsson-inducing-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Experimental Investigation of the Separation Points on a Circular Rotating Cylinder in Cross Flow</title>
+      <link>https://fbob.github.io/publication/labraga-experimental-2007/</link>
+      <pubDate>Thu, 01 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/labraga-experimental-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large eddy simulations of plane turbulent impinging jets at moderate Reynolds numbers</title>
+      <link>https://fbob.github.io/publication/beaubert-large-2003/</link>
+      <pubDate>Fri, 01 Aug 2003 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-large-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Eddy Simulation of a plane impinging jet</title>
+      <link>https://fbob.github.io/publication/beaubert-large-2002/</link>
+      <pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-large-2002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

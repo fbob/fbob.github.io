@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Á. Helgadóttir | Fbob&#39;s academic pages</title>
+    <link>https://fbob.github.io/author/a.-helgadottir/</link>
+      <atom:link href="https://fbob.github.io/author/a.-helgadottir/index.xml" rel="self" type="application/rss+xml" />
+    <description>Á. Helgadóttir</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fbob.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Á. Helgadóttir</title>
+      <link>https://fbob.github.io/author/a.-helgadottir/</link>
+    </image>
+    
+    <item>
+      <title>Numerical investigation of several twisted tubes with non-conventional tube cross sections on heat transfer and pressure drop</title>
+      <link>https://fbob.github.io/publication/indurain-numerical-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/indurain-numerical-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

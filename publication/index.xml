@@ -1,16 +1,320 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
+    <title>Publications | Fbob&#39;s academic pages</title>
     <link>https://fbob.github.io/publication/</link>
       <atom:link href="https://fbob.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fbob.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://fbob.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Computational fluid dynamics investigation of the thermal performances of a swirler with profiled blades</title>
+      <link>https://fbob.github.io/publication/indurain-computational-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/indurain-computational-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical investigation of several twisted tubes with non-conventional tube cross sections on heat transfer and pressure drop</title>
+      <link>https://fbob.github.io/publication/indurain-numerical-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/indurain-numerical-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pascal, Bernoulli et Torricelli sont sur un bateau…</title>
+      <link>https://fbob.github.io/publication/pelle-pascal-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/pelle-pascal-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical Investigation of short elliptical twisted tube for reduced fouling rate in steam cracking furnaces</title>
+      <link>https://fbob.github.io/publication/indurain-numerical-2019-1/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/indurain-numerical-2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tube comprenant au moins un segement torsadé à section elliptique ou lobée pour un four de vapocraquage</title>
+      <link>https://fbob.github.io/publication/indurain-tube-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/indurain-tube-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mesh Twisting Technique for Swirl Induced Laminar Flow Used to Determine a Desired Blade Shape</title>
+      <link>https://fbob.github.io/publication/helgadottir-mesh-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/helgadottir-mesh-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CFD study of the convective heat transfer in a swirling flow for several flow regimes</title>
+      <link>https://fbob.github.io/publication/indurain-cfd-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/indurain-cfd-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combustion characterization in a biomass boiler with PAHs oxidation</title>
+      <link>https://fbob.github.io/publication/offroy-combustion-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/offroy-combustion-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mock-up Study of the Effect of Wall distance on the Thermal Rating of Power Cables in Ventilated Tunnels</title>
+      <link>https://fbob.github.io/publication/boukrouche-mock-up-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/boukrouche-mock-up-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Étude aéro-thermochimique d&#39;une chaudière biomasse</title>
+      <link>https://fbob.github.io/publication/offroy-etude-2017-1/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/offroy-etude-2017-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Étude aéro-thermochimique numérique et expérimentale d&#39;une chaudière biomasse</title>
+      <link>https://fbob.github.io/publication/offroy-etude-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/offroy-etude-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taylor-Couette-Poiseuille flow and heat transfer in an annular channel with a slotted rotor</title>
+      <link>https://fbob.github.io/publication/lancial-taylor-couette-poiseuille-2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/lancial-taylor-couette-poiseuille-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Proximity on the Thermal Rating of a Single Power Cable in Ventilated Tunnels</title>
+      <link>https://fbob.github.io/publication/boukrouche-effect-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/boukrouche-effect-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A thermal study of power cables cooling in tunnels</title>
+      <link>https://fbob.github.io/publication/boukrouche-thermal-2016/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/boukrouche-thermal-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundamental mode of freely decaying laminar swirling flows</title>
+      <link>https://fbob.github.io/publication/beaubert-fundamental-2016/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-fundamental-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a device to induce swirling flow in pipes: A rational approach</title>
+      <link>https://fbob.github.io/publication/beaubert-design-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-design-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heat transfer coefficient distribution on the pole face of a hydrogenerator scale model</title>
+      <link>https://fbob.github.io/publication/torriano-heat-2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/torriano-heat-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study of a Taylor-Couette-Poiseuille flow in an annular channel with a slotted rotor</title>
+      <link>https://fbob.github.io/publication/lancial-study-2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/lancial-study-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of a turbulent wall jet on heat transfer over a non-confined backward-facing step</title>
+      <link>https://fbob.github.io/publication/lancial-effects-2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/lancial-effects-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of a turbulent wall jet over a non-confined backward-facing step</title>
+      <link>https://fbob.github.io/publication/lancial-effects-2013-1/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/lancial-effects-2013-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inducing Swirling Flow in Heat Exchanger Pipes for Reduced Fouling Rate</title>
+      <link>https://fbob.github.io/publication/palsson-inducing-2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/palsson-inducing-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effets d’un jet relaché sur les transferts thermiques en aval d’une marche descendante non-confinée</title>
+      <link>https://fbob.github.io/publication/lancial-effets-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/lancial-effets-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Increased shear stress in annular swirling flow for reduced fouling rate</title>
+      <link>https://fbob.github.io/publication/palsson-increased-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/palsson-increased-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Etude numérique de la structure de l&#39;écoulement dans un alternateur discoïde d&#39;une éolienne</title>
+      <link>https://fbob.github.io/publication/beaubert-etude-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-etude-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Experimental Investigation of the Separation Points on a Circular Rotating Cylinder in Cross Flow</title>
+      <link>https://fbob.github.io/publication/labraga-experimental-2007/</link>
+      <pubDate>Thu, 01 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/labraga-experimental-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effet du soufflage a travers une paroi poreuse dans un canal bidimensionnel</title>
+      <link>https://fbob.github.io/publication/haddad-effet-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/haddad-effet-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Experimental Investigation of the Separation Points on a Circular Rotating Cylinder in Cross Flow</title>
+      <link>https://fbob.github.io/publication/keirsbulck-experimental-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/keirsbulck-experimental-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large eddy simulations of plane turbulent impinging jets at moderate Reynolds numbers</title>
+      <link>https://fbob.github.io/publication/beaubert-large-2003/</link>
+      <pubDate>Fri, 01 Aug 2003 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-large-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Eddy Simulation of flow and mass transfer in a plane turbulent impinging jet</title>
+      <link>https://fbob.github.io/publication/beaubert-large-2003-1/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-large-2003-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Eddy Simulation of a plane impinging jet</title>
+      <link>https://fbob.github.io/publication/beaubert-large-2002/</link>
+      <pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-large-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation des grandes échelles turbulentes d&#39;un jet plan en impact</title>
+      <link>https://fbob.github.io/publication/beaubert-simulation-2002/</link>
+      <pubDate>Sat, 01 Jun 2002 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-simulation-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Eddy Simulations of plane turbulent impinging jets at moderate Reynolds numbers</title>
+      <link>https://fbob.github.io/publication/beaubert-large-2002-1/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-large-2002-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Etude d&#39;un jet plan turbulent en impact proche par simulation des grandes échelles</title>
+      <link>https://fbob.github.io/publication/beaubert-etude-2001-1/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-etude-2001-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Etude d&#39;un jet plan turbulent impactant par simulation des grandes échelles</title>
+      <link>https://fbob.github.io/publication/beaubert-etude-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-etude-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Eddy Simulation of a plane turbulent impinging jet</title>
+      <link>https://fbob.github.io/publication/beaubert-large-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-large-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modélisations expérimentale et numérique des jets utilisés pour le confinement et la protection rapprochée</title>
+      <link>https://fbob.github.io/publication/beaubert-modelisations-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-modelisations-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical and experimental visualizations of a plane turbulent jet impinging on a flat and smooth plate.</title>
+      <link>https://fbob.github.io/publication/beaubert-numerical-2000/</link>
+      <pubDate>Sun, 01 Oct 2000 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-numerical-2000/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Une simulation directe d&#39;ordre élevé d&#39;un écoulement de cavité 3D entrainée</title>
+      <link>https://fbob.github.io/publication/beaubert-simulation-1999/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-simulation-1999/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stéphane Viazzo | Fbob&#39;s academic pages</title>
+    <link>https://fbob.github.io/author/stephane-viazzo/</link>
+      <atom:link href="https://fbob.github.io/author/stephane-viazzo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stéphane Viazzo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fbob.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Stéphane Viazzo</title>
+      <link>https://fbob.github.io/author/stephane-viazzo/</link>
+    </image>
+    
+    <item>
+      <title>Large eddy simulations of plane turbulent impinging jets at moderate Reynolds numbers</title>
+      <link>https://fbob.github.io/publication/beaubert-large-2003/</link>
+      <pubDate>Fri, 01 Aug 2003 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-large-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Eddy Simulation of flow and mass transfer in a plane turbulent impinging jet</title>
+      <link>https://fbob.github.io/publication/beaubert-large-2003-1/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-large-2003-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Eddy Simulation of a plane impinging jet</title>
+      <link>https://fbob.github.io/publication/beaubert-large-2002/</link>
+      <pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-large-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Eddy Simulations of plane turbulent impinging jets at moderate Reynolds numbers</title>
+      <link>https://fbob.github.io/publication/beaubert-large-2002-1/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-large-2002-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Etude d&#39;un jet plan turbulent en impact proche par simulation des grandes échelles</title>
+      <link>https://fbob.github.io/publication/beaubert-etude-2001-1/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-etude-2001-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Etude d&#39;un jet plan turbulent impactant par simulation des grandes échelles</title>
+      <link>https://fbob.github.io/publication/beaubert-etude-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-etude-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Eddy Simulation of a plane turbulent impinging jet</title>
+      <link>https://fbob.github.io/publication/beaubert-large-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-large-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modélisations expérimentale et numérique des jets utilisés pour le confinement et la protection rapprochée</title>
+      <link>https://fbob.github.io/publication/beaubert-modelisations-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-modelisations-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical and experimental visualizations of a plane turbulent jet impinging on a flat and smooth plate.</title>
+      <link>https://fbob.github.io/publication/beaubert-numerical-2000/</link>
+      <pubDate>Sun, 01 Oct 2000 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-numerical-2000/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Une simulation directe d&#39;ordre élevé d&#39;un écoulement de cavité 3D entrainée</title>
+      <link>https://fbob.github.io/publication/beaubert-simulation-1999/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/beaubert-simulation-1999/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

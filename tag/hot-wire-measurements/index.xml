@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hot wire measurements | Fbob&#39;s academic pages</title>
+    <link>https://fbob.github.io/tag/hot-wire-measurements/</link>
+      <atom:link href="https://fbob.github.io/tag/hot-wire-measurements/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hot wire measurements</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fbob.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Hot wire measurements</title>
+      <link>https://fbob.github.io/tag/hot-wire-measurements/</link>
+    </image>
+    
+    <item>
+      <title>Effects of a turbulent wall jet on heat transfer over a non-confined backward-facing step</title>
+      <link>https://fbob.github.io/publication/lancial-effects-2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://fbob.github.io/publication/lancial-effects-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
