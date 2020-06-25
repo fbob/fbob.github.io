@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://fbob.github.io/</loc>
+    <lastmod>2020-06-24T09:17:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/project/particulate-transport/</loc>
+    <lastmod>2020-06-24T09:17:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/project/</loc>
+    <lastmod>2020-06-24T09:17:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbob.github.io/project/swirling-flows/</loc>
+    <lastmod>2020-06-24T09:16:38+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fbob.github.io/publication-type/2/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
@@ -24,11 +44,6 @@
   
   <url>
     <loc>https://fbob.github.io/author/david-uystepryst/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fbob.github.io/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
